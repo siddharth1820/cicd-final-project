@@ -1,1 +1,1 @@
-"""Tests for the emotion detection package."""
+"""Tests for the emotion detection package.""" 
