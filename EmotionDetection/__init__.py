@@ -1,1 +1,1 @@
-from EmotionDetection import emotion_detection
+"""Tests for the emotion detection package."""
